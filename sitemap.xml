@@ -5,4 +5,25 @@
     <lastmod>2025-11-11</lastmod>
     <priority>1.00</priority>
   </url>
+  <url>
+    <loc>https://avisek14.github.io/Avisek-portfolio/#about</loc>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://avisek14.github.io/Avisek-portfolio/#skills</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://avisek14.github.io/Avisek-portfolio/#certifications</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://avisek14.github.io/Avisek-portfolio/#projects</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://avisek14.github.io/Avisek-portfolio/#contact</loc>
+    <priority>0.80</priority>
+  </url>
 </urlset>
+
